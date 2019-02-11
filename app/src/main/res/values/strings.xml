@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseMVP</string>
+    <string name="no_network_connection">请检查网络</string>
+</resources>
